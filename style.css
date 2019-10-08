@@ -1,0 +1,64 @@
+body {
+  background: url(https://www.pomodorozen.com/wp-content/uploads/2016/06/zen-wallpaper-51.jpg);
+  background-size: cover;
+}
+
+/* header: logo gmail */
+.head {
+  margin: auto;
+  text-align: center;
+}
+
+/* main: immagine logo */
+#img {
+  vertical-align: middle;
+}
+
+/* header: font e dimensioni header scritta */
+.gm {
+  font-family: 'Righteous', cursive;
+  font-size: 30px;
+}
+
+section {
+  text-align: center;
+}
+
+.message {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* colori e dimensioni numero 33 */
+ .num {
+  background-color: red;
+  color: white;
+  padding: 5px;
+  border-radius: 50%;
+}
+
+/* primo div: pulsante cerca */
+#cerca {
+  background-color: red;
+  color: white;
+}
+
+/* background della ricerca email */
+.oggetto {
+  background-color: lightgrey;
+  width: 50%;
+  margin: auto;
+}
+
+/* background opzioni inviate\cestino\spam */
+.opzioni {
+  font-family: 'Righteous', cursive;
+  background-color: grey;
+  width: 50%;
+  margin: auto;
+}
+
+/* div all'interno dell'ultima section */
+.riga {
+  background-color: white;
+}
